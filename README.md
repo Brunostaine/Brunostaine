@@ -2,13 +2,8 @@
 
 ### Cursando Análise e desenvolvimento de sistemas - IESB
 #### E-mail brunostaine@hotmail.com
-<p>Sou apaixonado por tecnologia desde pequeno, gosto de criar sistemas para agilizar meus processos de trabalho e atualmente estou aprendendo front-end. Sempre aprendendo, busco me atualizar e me desenvolver para ser um profissional de referência. Também estudo inglês.
+<p>Desenvolvedor Front-end.
 
-No meu tempo vago gosto de criar novos projetos, ver fimes e series, caminhar. 
-        
-Sou apreciador de vinhos, cervejas.
-        
-Café sempre necessário.
 </p>
 
 [![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-staine-81b8a9185/)
