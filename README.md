@@ -1,6 +1,8 @@
 <h1> Hey!  <img src="https://media2.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif?cid=790b7611a2d4b32f22a288e7eb44912b3a9c1e3a81d2e34c&rid=giphy.gif&ct=s" width="48px" heigth="28px"/>I'm Bruno Staine!</h1>
 <p>Self-taught developer, passionate about web development on both frontend and backend. </p>
 
+![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=brunostaine&show_icons=true&theme=dark)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Access+my+projects+and+connect+with+me)](https://git.io/typing-svg)
 <h1> To connect: </h1>
 
@@ -11,7 +13,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/bruno.staine)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@Bruno%20Staine#3352)
 	
-![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=brunostaine&show_icons=true&theme=dark)
+
 
 <div>
 <div style="display: inline-block" align="center"><br/>
