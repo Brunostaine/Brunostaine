@@ -17,19 +17,19 @@
 ![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=brunostaine&show_icons=true&theme=dark)
 
 <div>
-<div style="display: inline-block"><br/>
+<div style="display: inline-block" align="center"><br/>
                 <h3>Main technologies I use:</h3>
                 <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
                 <img align="center" alt="html5" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
                 <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
                 <img align="center" alt="html5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>        
         </div>     
-         <div style="display: inline-block"><br/>     
+         <div style="display: inline-block" align="center"><br/>     
                 <h3>Frameworks:</h3>
                 <img align="center" alt="html5" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
                 <img align="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
         </div>       
-        <div style="display: inline-block"><br/> 
+        <div style="display: inline-block" align="center"><br/> 
                 <h3>Bibliotecas:</h3>
                 <img align="center" alt="html5" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
                 <img align="center" alt="html5" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>       
