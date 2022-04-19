@@ -26,7 +26,6 @@
          <div style="display: inline-block"><br/>     
                 <h3>Frameworks:</h3>
                 <img align="center" alt="html5" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-                
         </div>       
         <div style="display: inline-block"<br/> 
                 <h3>Bibliotecas:</h3>
