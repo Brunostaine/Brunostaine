@@ -6,8 +6,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Access+my+projects+and+connect+with+me)](https://git.io/typing-svg)
 <h1> To connect: </h1>
 
-[![Gmail](https://img.shields.io/badge/brunostaine@hotmail.com%20-Email-green.svg)](brunostaine@hotmail.com)
-[![Gmail](https://img.shields.io/badge/61%209%2099687967%20-Telefone-green.svg)](https://api.whatsapp.com/send?phone=5561999687967)<br>
 [![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-staine-81b8a9185/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bruno.stainee/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/bruno.staine)
