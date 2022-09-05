@@ -2,7 +2,7 @@
 
 ![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=brunostaine&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Brunostaine/Brunostaine/github-readme-stats)	
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoStaine)](https://github.com/Brunostaine/Brunostaine/github-readme-stats)	
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Acesse+meus+projetos)](https://git.io/typing-svg)
 <h1> Me encontre nas redes sociais: </h1>
