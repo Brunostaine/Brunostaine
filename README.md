@@ -11,21 +11,19 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@Bruno%20Staine#3352)
 	
 <div>
-<div style="display: inline-block"><br/>
-                <h3>Tecnologias que mais utilizo no dia-a-dia:</h3>
-                <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-                <img align="center" alt="html5" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-                <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-                <img align="center" alt="html5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>        
-        </div>     
-         <div style="display: inline-block"><br/>     
-                <h3>Frameworks:</h3>
+	<div style="display: inline-block"><br/>
+		<h3>Tecnologias que mais utilizo no dia-a-dia:</h3>
+		<img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+		<img align="center" alt="html5" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+		<img align="center" alt="html5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>        
+	</div>     
+	<div style="display: inline-block"><br/>     
+		<h3>Frameworks:</h3>
 		<img align="center" alt="html5" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 		<img align="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-        </div>       
-        <div style="display: inline-block"<br/> 
-                <h3>Bibliotecas:</h3>
-                <img align="center" alt="html5" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-                <img align="center" alt="html5" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>       
-        </div>
+	</div>       
+	<div style="display: inline-block"<br/> 
+		<h3>Bibliotecas:</h3>  
+		<img align="center" alt="html5" src="https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white"/> 
+	</div>
 </div>
