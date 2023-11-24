@@ -1,4 +1,4 @@
-<p>Sou um desenvolvedor Fullstack que gosta de aprender coisas novas. O meu foco hoje é desenvolvimento Frontend com o framework Angular, procuro criar sistemas mais elegantes, rapidos e inovadores.   </p>
+<p>Sou um Desenvolvedor Fullstack que gosta de aprender coisas novas. O meu foco hoje é desenvolvimento Frontend com o framework Angular e desenvolvimento Backend com o Spring Boot, procuro criar sistemas mais elegantes, rapidos e inovadores.   </p>
 
 #### Me encontre nas redes sociais:
 
