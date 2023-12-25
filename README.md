@@ -1,4 +1,4 @@
-<p>Sou um Desenvolvedor Fullstack que gosta de aprender coisas novas. O meu foco hoje é desenvolvimento Frontend com o framework Angular e desenvolvimento Backend com o Spring Boot, procuro criar sistemas mais elegantes, rapidos e inovadores.   </p>
+<p>Desenvolvedor Fullstack, com experiência em Angular, Java com Spring boot foco em desenvolver sistemas com muita robustes. Atuo também como freelancer, ajudando empresas e instituições a melhorarem seus sistemas e sites. Quero poder ajudar as pessoas através da tecnologia, gerando valor e transmitindo conhecimento.</p>
 
 #### Me encontre nas redes sociais:
 
