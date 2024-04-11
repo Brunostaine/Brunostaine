@@ -1,4 +1,4 @@
-<p>Sou Desenvolvedor Backend com foco na criação de sistemas robustos. Na minha trajetória profissional atuei como desenvolvedor Fullstack e utilizei Angular e React além de Java. Essas tecnologias puderam me ajudar a compreender um sistema como um todo desde a parte de backend, frontend e banco de dados. Sou consultor em Análise de Sistemas. Além disso tudo quero poder ajudar as pessoas através da tecnologia, gerando valor e transmitindo conhecimento.</p>
+<p>Sou desenvolvedor de software tenho experiência em Java, meu foco atual é como backend developer. Atuei como desenvolvedor fullstack utilizando angular e react e conheço tanto a parte do client quanto do servidor. Trabalhei também com banco de dados MySQL e Postgres. Sou consultor em Análise de Sistemas. Além disso tudo quero poder ajudar as pessoas através da tecnologia, gerando valor e transmitindo conhecimento.</p>
 
 #### Me encontre nas redes sociais:
 
