@@ -1,7 +1,8 @@
-Desenvolvedor Fullstack, formado em **Análise e Desenvolvimento de Sistemas**.  
-Atuo na criação de sistemas web modernos utilizando **React, Next.js, Node.js e NestJS**, com foco na construção de **APIs escaláveis e arquiteturas baseadas em microsserviços**.
+Full Stack Developer focused on building real-world applications using React, Next.js and Node.js.
 
-Também possuo experiência com **Angular, Java e Spring**, desenvolvendo aplicações completas do frontend ao backend.
+I develop complete solutions including authentication, APIs, database integration and deployment.
+
+Currently building projects and open to remote opportunities and freelance work.
 
 ---
 
