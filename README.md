@@ -6,7 +6,7 @@ Currently building projects and open to remote opportunities and freelance work.
 
 ---
 
-# 🚀 Tecnologias e Ferramentas
+# 🚀 Technologies and Tools
 
 ### Frontend
 <p>
@@ -18,19 +18,19 @@ Currently building projects and open to remote opportunities and freelance work.
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,java,spring" />
 </p>
 
-### Banco de Dados
+### Database
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma" />
 </p>
 
-### Ferramentas
+### Tools
 <p>
 <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
 </p>
 
 ---
 
-# 📊 Estatísticas do GitHub
+# 📊 GitHub Statistics
 
 <p align="start">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brunostaine&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
@@ -39,7 +39,7 @@ Currently building projects and open to remote opportunities and freelance work.
 
 ---
 
-# 🔥 Streak de Contribuições
+# 🔥 Contribution Streak
 
 <p>
 <img src="https://streak-stats.demolab.com?user=Brunostaine&theme=github-dark&hide_border=true"/>
@@ -47,20 +47,20 @@ Currently building projects and open to remote opportunities and freelance work.
 
 ---
 
-# 📌 Projetos
+# 📌 Projects
 
-Alguns projetos focados em **arquitetura moderna e desenvolvimento full stack**:
+Some projects focused on **modern architecture and full-stack development**:
 
-- **APIs REST** desenvolvidas com **Node.js e Express**
-- **Aplicações frontend** utilizando **Angular e JavaScript**
-- **Sistemas web completos** com integração entre frontend e backend
-- **SaaS e ferramentas web** para automação e organização de processos
-- **Landing pages e sites institucionais** focados em performance e responsividade
-- Projetos utilizando **Java para desenvolvimento backend**
+- **REST APIs** developed with **Node.js and Express**
+- **Frontend applications** using **Angular and JavaScript**
+- **Complete web systems** with frontend and backend integration
+- **SaaS and web tools** for process automation and organization
+- **Landing pages and institutional websites** focused on performance and responsiveness
+- Projects using **Java for backend development**
 
 ---
 
-# 📫 Contato
+# 📫 Contact
 
 <p>
 <a href="https://www.linkedin.com/in/brunostaine" target="_blank">
